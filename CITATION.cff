@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Anonymized
+    given-names: Author
+    affiliation: "withheld for peer review"
+title: "Ometita Bodyless Valley — Replication Package"
+version: 1.0.0
+date-released: 2026-08-21
+url: "https://github.com/fishsleep/bodyless-valley-replication"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Anonymized
+      given-names: Author
+  title: "The Bodyless Valley: Seven Fingers, a Threshold, and the Trace of the Model's Own Hand"
+  journal: "International Journal on Humanistic Ideology"
+  year: 2026
+  note: "Special Issue: Bodyless Hallucination"

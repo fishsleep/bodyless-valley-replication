@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.coverage
+*.egg-info/
+
+# Environment
+.env
+.venv
+venv/
+conda-env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data (handled by Git LFS)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.ggml
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build artifacts
+*.docx
+*.pdf
+*.doc
+build/
+dist/
+
+# Local overrides
+*.local
+.local/

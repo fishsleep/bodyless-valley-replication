@@ -1,0 +1,26 @@
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+torchaudio==2.1.0+cu118
+--index-url https://download.pytorch.org/whl/cu118
+transformers==4.36.0
+diffusers==0.25.0
+accelerate==0.25.0
+safetensors==0.4.1
+timm==0.9.12
+open-clip-torch==2.24.0
+sentencepiece==0.1.99
+protobuf==4.25.0
+pillow==10.0.0
+opencv-python==4.8.1.78
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+numpy==1.26.0
+scipy==1.11.0
+pandas==2.1.0
+matplotlib==3.8.0
+seaborn==0.13.0
+pyyaml==6.0
+tqdm==4.66.0
+requests==2.31.0
+python-dotenv==1.0.0
+huggingface_hub==0.20.0

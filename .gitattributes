@@ -1,0 +1,13 @@
+# Git LFS for large model files
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.gguf filter=lfs diff=lfs merge=lfs -text
+*.ggml filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+
+# Large data files
+data/loras/*.safetensors filter=lfs diff=lfs merge=lfs -text
+data/raw_images/*.png filter=lfs diff=lfs merge=lfs -text

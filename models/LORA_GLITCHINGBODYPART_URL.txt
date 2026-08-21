@@ -1,0 +1,2 @@
+https://huggingface.co/fishsleep/GlitchingBodyPart-LoRA-r8
+# Rank: 8, Base: anime SD1.5, Trigger: "GlitchingBodyPart, glitch"

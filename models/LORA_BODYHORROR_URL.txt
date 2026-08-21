@@ -1,0 +1,2 @@
+https://huggingface.co/fishsleep/BodyHorror-LoRA-r128
+# Rank: 128, Base: photoreal SD1.5, Trigger: "fullmetamorphosis"
